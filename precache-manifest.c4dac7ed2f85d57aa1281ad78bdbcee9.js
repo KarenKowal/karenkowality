@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f5e4ae1381f342e590212bc2eb5dfc2",
+    "revision": "f54ae4e602ed0a0510b8a22a67e54276",
     "url": "/karen_portfolio/index.html"
   },
   {
-    "revision": "e824d9c1b2b51556e792",
-    "url": "/karen_portfolio/static/css/main.c44c56a5.chunk.css"
+    "revision": "67d7d485133659e5446f",
+    "url": "/karen_portfolio/static/css/main.c82194ef.chunk.css"
   },
   {
-    "revision": "e7d2e4386d4c23e8054b",
-    "url": "/karen_portfolio/static/js/2.1a1692e1.chunk.js"
+    "revision": "748b543d0edc62897099",
+    "url": "/karen_portfolio/static/js/2.c737f7f0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/karen_portfolio/static/js/2.1a1692e1.chunk.js.LICENSE.txt"
+    "url": "/karen_portfolio/static/js/2.c737f7f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e824d9c1b2b51556e792",
-    "url": "/karen_portfolio/static/js/main.638497e1.chunk.js"
+    "revision": "67d7d485133659e5446f",
+    "url": "/karen_portfolio/static/js/main.182bdf04.chunk.js"
   },
   {
     "revision": "a849b73c954525b95e80",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b1fe073c2b1ecca2dcfc40f1e67fa2c3",
     "url": "/karen_portfolio/static/media/03resumepic.b1fe073c.png"
+  },
+  {
+    "revision": "9a5184e253b2edc66892e18e79208560",
+    "url": "/karen_portfolio/static/media/Kowality Services Logo3 (2).9a5184e2.png"
   },
   {
     "revision": "80ab9be11c6e58056bcbca3172e3fe91",

@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/karen_portfolio/static/css/main.c44c56a5.chunk.css",
-    "main.js": "/karen_portfolio/static/js/main.638497e1.chunk.js",
-    "main.js.map": "/karen_portfolio/static/js/main.638497e1.chunk.js.map",
+    "main.css": "/karen_portfolio/static/css/main.c82194ef.chunk.css",
+    "main.js": "/karen_portfolio/static/js/main.182bdf04.chunk.js",
+    "main.js.map": "/karen_portfolio/static/js/main.182bdf04.chunk.js.map",
     "runtime-main.js": "/karen_portfolio/static/js/runtime-main.82a4539b.js",
     "runtime-main.js.map": "/karen_portfolio/static/js/runtime-main.82a4539b.js.map",
-    "static/js/2.1a1692e1.chunk.js": "/karen_portfolio/static/js/2.1a1692e1.chunk.js",
-    "static/js/2.1a1692e1.chunk.js.map": "/karen_portfolio/static/js/2.1a1692e1.chunk.js.map",
+    "static/js/2.c737f7f0.chunk.js": "/karen_portfolio/static/js/2.c737f7f0.chunk.js",
+    "static/js/2.c737f7f0.chunk.js.map": "/karen_portfolio/static/js/2.c737f7f0.chunk.js.map",
     "index.html": "/karen_portfolio/index.html",
-    "precache-manifest.f4db507698ce0a2e3dcac47a2694ddc2.js": "/karen_portfolio/precache-manifest.f4db507698ce0a2e3dcac47a2694ddc2.js",
+    "precache-manifest.c4dac7ed2f85d57aa1281ad78bdbcee9.js": "/karen_portfolio/precache-manifest.c4dac7ed2f85d57aa1281ad78bdbcee9.js",
     "service-worker.js": "/karen_portfolio/service-worker.js",
-    "static/css/main.c44c56a5.chunk.css.map": "/karen_portfolio/static/css/main.c44c56a5.chunk.css.map",
-    "static/js/2.1a1692e1.chunk.js.LICENSE.txt": "/karen_portfolio/static/js/2.1a1692e1.chunk.js.LICENSE.txt",
+    "static/css/main.c82194ef.chunk.css.map": "/karen_portfolio/static/css/main.c82194ef.chunk.css.map",
+    "static/js/2.c737f7f0.chunk.js.LICENSE.txt": "/karen_portfolio/static/js/2.c737f7f0.chunk.js.LICENSE.txt",
     "static/media/01Director of Marketing.pdf": "/karen_portfolio/static/media/01Director of Marketing.33045566.pdf",
     "static/media/01resumepic.png": "/karen_portfolio/static/media/01resumepic.4da82b1c.png",
     "static/media/02IT Product Manager Director.pdf": "/karen_portfolio/static/media/02IT Product Manager Director.73da0178.pdf",
     "static/media/02resumepic.png": "/karen_portfolio/static/media/02resumepic.4c958518.png",
     "static/media/03CIO Resume.pdf": "/karen_portfolio/static/media/03CIO Resume.89e4a4d8.pdf",
     "static/media/03resumepic.png": "/karen_portfolio/static/media/03resumepic.b1fe073c.png",
+    "static/media/Kowality Services Logo3 (2).png": "/karen_portfolio/static/media/Kowality Services Logo3 (2).9a5184e2.png",
     "static/media/profile.jpg": "/karen_portfolio/static/media/profile.80ab9be1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.82a4539b.js",
-    "static/js/2.1a1692e1.chunk.js",
-    "static/css/main.c44c56a5.chunk.css",
-    "static/js/main.638497e1.chunk.js"
+    "static/js/2.c737f7f0.chunk.js",
+    "static/css/main.c82194ef.chunk.css",
+    "static/js/main.182bdf04.chunk.js"
   ]
 }
